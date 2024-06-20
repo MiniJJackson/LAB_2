@@ -14,3 +14,4 @@ function toggleDropdown(id) {
         dropdown.style.display = "none";
     }
 }
+
